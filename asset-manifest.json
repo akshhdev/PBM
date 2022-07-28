@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/PBM/static/css/main.f71c62ff.css",
+    "main.js": "/PBM/static/js/main.7e65025f.js",
+    "static/media/Accreditions.jpeg": "/PBM/static/media/Accreditions.751b46c85eeea1cb27e6.jpeg",
+    "static/media/app-store.png": "/PBM/static/media/app-store.75ee2bf5782c221f1160.png",
+    "static/media/pbm.jpeg": "/PBM/static/media/pbm.e0b2b51f9a44ddf4573e.jpeg",
+    "static/media/pbm.jpg": "/PBM/static/media/pbm.7016b20f9eaa34af8cc5.jpg",
+    "static/media/banner-3.jpg": "/PBM/static/media/banner-3.ee00be9a407bf636c210.jpg",
+    "static/media/logo-pbm.png": "/PBM/static/media/logo-pbm.0953b9dd8173aacab791.png",
+    "static/media/play-store.png": "/PBM/static/media/play-store.7f5405bad2487029f347.png",
+    "index.html": "/PBM/index.html",
+    "main.f71c62ff.css.map": "/PBM/static/css/main.f71c62ff.css.map",
+    "main.7e65025f.js.map": "/PBM/static/js/main.7e65025f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f71c62ff.css",
+    "static/js/main.7e65025f.js"
+  ]
+}
